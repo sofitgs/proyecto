@@ -247,6 +247,15 @@ color: white;
     margin-left: 30px;
 }
 
+.animacion_susccribete {
+    color: #e63c49;
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    transform: scale(2fr);
+    transition: 2s;
+}
+
 /*footer*/
 footer{
     background-color: #0071ce;
