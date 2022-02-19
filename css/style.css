@@ -7,6 +7,7 @@
 /*BODY*/
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
 }
 
 
@@ -245,6 +246,14 @@ color: white;
 .texto__beneficios__generales {
     color: gray;
     margin-left: 30px;
+}
+
+.suscribete{
+    background-color: #0071ce;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /*footer*/
